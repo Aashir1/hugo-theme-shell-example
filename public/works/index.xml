@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on Shell</title>
+    <link>http://localhost:1313/works/</link>
+    <description>Recent content in Works on Shell</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/works/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/works/go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/go/</guid>
+      <description>&lt;h1 id=&#34;go&#34;&gt;Go&lt;/h1&gt;&#xA;&lt;h3 id=&#34;golang&#34;&gt;golang&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://golang.org/&#34;&gt;https://golang.org/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/works/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/hugo/</guid>
+      <description>&lt;h1 id=&#34;hugo&#34;&gt;Hugo&lt;/h1&gt;&#xA;&lt;h3 id=&#34;gohugo&#34;&gt;gohugo&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;https://gohugo.io/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

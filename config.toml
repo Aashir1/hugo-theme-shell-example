@@ -1,17 +1,2 @@
-baseURL = "https://hugo-theme-shell.netlify.app/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "hugo-theme-shell"
-
-[Params]
-    [Params.Terminal]
-    schema = "monokai"
-
-    [Params.Tree]
-    use = true
-    files = [
-        ["C/C++", "https://www.example.com/"],
-        ["Python", "https://www.example.com/"],
-        ["Go", "/works/go.md"],
-        ["Hugo", "/works/hugo.md"]
-    ]
+[Params.Terminal]
+scheme = "shell-retro"
